@@ -2,3 +2,5 @@ This is a file I would like to add to my github repository.
 I will upload it from my computer to the website.
 
 Making some changes here
+
+Emily was here
